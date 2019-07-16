@@ -1,0 +1,54 @@
+{
+  "_args": [
+    [
+      "git+https://github.com/esutton/react-native-mail.git",
+      "/Users/joshnissenbaum/Programming/React Native/HotelsConnect"
+    ]
+  ],
+  "_from": "git+https://github.com/esutton/react-native-mail.git",
+  "_id": "react-native-mail@git+https://github.com/esutton/react-native-mail.git#d2116f01af475ae3c8d62de121c987f35593e8c6",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-mail",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/esutton/react-native-mail.git",
+    "rawSpec": "git+https://github.com/esutton/react-native-mail.git",
+    "saveSpec": "git+https://github.com/esutton/react-native-mail.git",
+    "fetchSpec": "https://github.com/esutton/react-native-mail.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/esutton/react-native-mail.git#d2116f01af475ae3c8d62de121c987f35593e8c6",
+  "_spec": "git+https://github.com/esutton/react-native-mail.git",
+  "_where": "/Users/joshnissenbaum/Programming/React Native/HotelsConnect",
+  "author": {
+    "name": "Chirag Jain",
+    "email": "jain_chirag04@yahoo.com",
+    "url": "http://chiragjain.tumblr.com"
+  },
+  "bugs": {
+    "url": "https://github.com/chirag04/react-native-mail/issues"
+  },
+  "description": "A wrapper on top of MFMailComposeViewController from iOS and Mail Intent on android",
+  "homepage": "https://github.com/chirag04/react-native-mail#readme",
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "ios",
+    "android",
+    "email",
+    "MFMailComposeViewController"
+  ],
+  "license": "MIT",
+  "name": "react-native-mail",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chirag04/react-native-mail.git"
+  },
+  "version": "0.2.4"
+}
